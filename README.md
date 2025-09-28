@@ -1,2 +1,2 @@
 # FDU_Black_White_Chess
-复旦大学python程序设计课程满分大作业
+复旦大学24秋季学期python程序设计课程满分大作业
